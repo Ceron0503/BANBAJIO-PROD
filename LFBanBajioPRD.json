@@ -341,7 +341,8 @@
       "url_report": "",
       "url_insert": "",
       "url_remove": "",
-      "url_loader": "https://tpv-parameters.sp.smartpayment.com.mx/icons/BanBajioloaderv2.json"
+      "url_loader": "https://tpv-parameters.sp.smartpayment.com.mx/icons/BanBajioloaderv2.json",
+      "enable": true
     }
   ]
 }
