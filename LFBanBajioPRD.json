@@ -289,7 +289,7 @@
   "custom_images" : [
     {
       "item" : "image_toolbar_name",
-      "value" : "image_toolbar",
+      "value" : "image_toolbar_name",
       "url" : "https://tpv-parameters.sp.smartpayment.com.mx/icons/BanBajio_Horizontal_fondo.png",
       "enable" : true
     },
